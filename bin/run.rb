@@ -1,4 +1,4 @@
-require_relative '../bin/run/config/environment'
+require_relative '../bin/run'
 require_relative '../config/environment'
 Hashie
 Sinatra
