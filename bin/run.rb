@@ -1,4 +1,4 @@
-require_relative '../bin/config/environment'
+require_relative './bin/config/environment'
 Hashie
 Sinatra
 Octokit
